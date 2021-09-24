@@ -1,0 +1,11 @@
+.text-field-add {
+    width: 500px;
+    background-color: #FFF;
+    border-radius: 20px;
+}
+
+.bt-add {
+    margin-top: 10px;
+    margin-left: 15px;
+    border-radius: 20px;
+}
